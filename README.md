@@ -1,5 +1,5 @@
 <p align="center">
-<a href="url"><img src=" https://play-lh.googleusercontent.com/wDDkP3IScV7U3P1tSOkTMShtgkd2xycXEvb_AImMyg9xkbMy9TS47h0spLoK9taju6rL=w300-h300" width="300" height="300" style="border-radius:50%"></a>
+<a href="url"><img src="https://play-lh.googleusercontent.com/wDDkP3IScV7U3P1tSOkTMShtgkd2xycXEvb_AImMyg9xkbMy9TS47h0spLoK9taju6rL=w300-h300" width="300" height="300" style="border-radius:50%"></a>
 </p>
 
 # Ask-Me-Anything
